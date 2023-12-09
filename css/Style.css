@@ -1,0 +1,54 @@
+nav
+{
+	background-color:#e3f2fd;
+}
+#logo
+{
+	width: 10%;
+	border-radius: 45%;
+}
+#lbl
+{
+	font-family:cursive;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 200%;
+	text-shadow: 2px 2px hotpink;
+}
+form
+{
+	margin-top: 10%;
+}
+label
+{
+	font-weight: bold;
+	font-family: Times New Roman;
+	font-size: 18px;
+}
+span
+{
+	color: red;
+	font-weight: bold;
+	font-size: 18px;
+}
+.note
+{
+	color: green;
+	font-weight: bold;
+	font-size: 18px;
+	font-family: Times New Roman;
+}
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.1);
+}
+.slidr
+{
+	height: 300px;
+}
+form
+{
+	margin-top: 1%;
+}
